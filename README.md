@@ -1,2 +1,3 @@
-# deployable-panel
-Prototypes for deployable cubesat solar arrays.
+# Deployable Solar Panel
+
+KiCAD design files for prototype 1U solar panels. "Centerpanel" is the center panel 
